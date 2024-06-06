@@ -6,7 +6,7 @@
     <title>Text to MIDI Converter</title>
 </head>
 <body>
-    <h2>Text to MIDI Converter</h2>
+    <h2>Text to MIDI Convertgdfgdfgdfer</h2>
     <form method="post">
         <textarea name="text" rows="5" cols="50" placeholder="Enter your text here"></textarea><br><br>
         <input type="submit" value="Convert to MIDI">
